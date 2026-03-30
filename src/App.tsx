@@ -26,7 +26,8 @@ import CorporateTieUpsPage from "./pages/CorporateTieUpsPage";
 import JobFestPage from "./pages/JobFestPage";
 import IndustrialVisitPage from "./pages/Industrial VisitPage";
 import OnTheJobTrainingPage from "./pages/OnTheJobTrainingPage";
-import GuestLecturePage from "./pages/GuestLecturePage";
+import GuestLecturePage from './pages/GuestLecturePage';
+//import GuestLecturePage from "./pages/GuestLecturePage";
 import AlumniClubPage from "./pages/AlumniClubPage";
 import ForCorporatePage from "./pages/ForCorporatePage";
 
